@@ -27,7 +27,7 @@ This report analyizes profitability of bike-sharing program in Des Moines, Iowa.
 
    There are three firms providing bikesharing services: Bike Country in Ankeny, World of Bikes in Iowa City and B-Cycle. The first two are in different nearby cities and their businesses are not bike rental. So in Des Moines, there is only one competitor B-Cycle.
 
-   Citi Bike now has about 13,000 bikes and e 781 active Citi Bike stations. Des Moines biggest bike rental firm B-Cycle has 120 rental bikes and With over 20 stations and 120 bikes. Based on the predicted users of Des Moines relative to NYC's, there is a lack of 200 bikes in Des Moines.
+   Citi Bike now has about 13,000 bikes and 781 active Citi Bike stations. Des Moines biggest bike rental firm B-Cycle has 120 rental bikes and With over 20 stations and 120 bikes. Based on the predicted users of Des Moines relative to NYC's, there is a lack of 200 bikes in Des Moines.
 
 ## Data Sources
 
