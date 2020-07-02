@@ -31,7 +31,9 @@ This report analyizes profitability of bike-sharing program in Des Moines, Iowa.
 
 ## Data Sources
 
-   
+   * [Des Moines Census Data](https://www.census.gov/quickfacts/desmoinescityiowa)
+   * [Des Moines Tourism Website](https://www.catchdesmoines.com/things-to-do/)
+   * [Citi Bike Monthly Operating Reports](https://www.citibikenyc.com/system-data/operating-reports)
 
 
 
