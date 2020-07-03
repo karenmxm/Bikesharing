@@ -2,6 +2,8 @@
 
 This report analyizes profitability of bike-sharing program in Des Moines, Iowa. This analysis is based on Citi Bike business data in NYC. We also provide the rationales that NYC's case can apply to Des Moines, Iowa.
 
+[Link to dashboard](https://public.tableau.com/profile/xiao.meng2283#!/vizhome/Bikesharing_15937493026590/BikisharingAnalysis?publish=yes "link to dashboard")
+
 ## NYC Citi Bike Analysis
 
 1. Citi Bike Revenue
@@ -22,6 +24,8 @@ This report analyizes profitability of bike-sharing program in Des Moines, Iowa.
 1. Bikesharing Demand
 
    In Demographics: Des Moines dashboard, we show population size, gender and age breakdowns. Compare to NYC, Des Moines has significantly less population. But gender and age breakdowns are similar to NYC. So we use NYC's users percentage to predict Des Moines potential users.
+
+   
    
 2. Competitors
 
