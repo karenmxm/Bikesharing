@@ -38,7 +38,7 @@ This report analyizes profitability of bike-sharing program in Des Moines, Iowa.
 
 ## Conlusions
 
-In sum, based on Citi Bike's sucess in NYC and demand and supply analysis for Des Moines, Iowa, bikesharing service is a profitable business. Des Moines is the capital city of Iowa. If we start a business from here, there will be a bandwagon effect for other cities in Iowa. We did not find many competitors in nearby cities which leave us a great change to get a big market share in bikesharing industry in Iowa.  
+   In sum, based on Citi Bike's sucess in NYC and demand and supply analysis for Des Moines, Iowa, bikesharing service is a profitable business. Des Moines is the capital city of Iowa. If we start a business from here, there will be a bandwagon effect for other cities in Iowa. We did not find many competitors in nearby cities which leave us a great change to get a big market share in bikesharing industry in Iowa.  
 
 ## Data Sources
 
