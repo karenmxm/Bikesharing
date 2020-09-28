@@ -1,8 +1,6 @@
 # Bikesharing
 
-This project analyizes profitability of bike-sharing program in Des Moines, Iowa. The predictions and conclusions are based on Citi Bike business data in NYC. 
-
-We provide the rationales that NYC's case can apply to Des Moines, Iowa. 
+This project analyizes profitability of bike-sharing program in Des Moines, Iowa. The predictions and conclusions are based on Citi Bike business data in NYC. We provide the rationales that NYC's case can apply to Des Moines, Iowa. 
 
 The data and analysis is visualized by `Tableau`. The link to analysis text and dashboard is attached.
 
