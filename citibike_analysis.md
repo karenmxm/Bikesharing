@@ -26,7 +26,7 @@ This report analyizes profitability of bike-sharing program in Des Moines, Iowa.
 
 1. Bikesharing Demand Estimates
 
-   For demand on bikesharing service, in "Demographics: Des Moines" dashboard, we show population size, gender and age breakdowns (see [Des Moines Census Data](https://www.census.gov/quickfacts/desmoinescityiowa)). Compare to NYC, Des Moines has significantly smaller population size. But gender and age breakdowns are similar to NYC. So we use NYC's users percentage out of tatal population to predict Des Moines potential users. This may overestimate users in Des Moines because lacking of visitors data.
+   For demand on bikesharing service, in "Demographics: Des Moines" dashboard, we show population size, gender and age breakdowns (see [Des Moines Census Data](https://www.census.gov/quickfacts/desmoinescityiowa)). Compare to NYC, Des Moines has significantly smaller population size. But gender and age breakdowns are similar to NYC. So we use NYC's users percentage out of total population to predict Des Moines potential users. This may overestimate users in Des Moines because lacking of visitors data.
 
    Other than analysis on demographics, we also found there more potentials for bikesharing business in Des Moines because biking is one of the most popular outdoor activities. More information can be found [Des Moines Tourism Website](https://www.catchdesmoines.com/things-to-do/) and "Market Demand" dashboard.
       
